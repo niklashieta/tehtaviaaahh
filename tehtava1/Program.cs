@@ -30,7 +30,7 @@ namespace tehtava1
             Console.WriteLine("Staattisen metodin Onkoluku testaus erilaisilla syotteilla: ");
             Console.WriteLine("--Epakelpojen syotteiden testaus: ");
            // Console.WriteLine("syote kissa on luku: " + penis);
-            Console.WriteLine("--Kelvollisten syotteiden testaus: ");
+            Console.WriteLine("--Kelvollisten syotteidean testaus: ");
         }
     }
 }
